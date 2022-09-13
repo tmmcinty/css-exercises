@@ -1,0 +1,13 @@
+.standard, .fun {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
+
+.standard {
+    background-color: black;
+    color: white;
+}
+
+.fun {
+    background-color: yellow;
+}
